@@ -1,15 +1,15 @@
-
+import FormField from "./FormField";
 import CustomButton from "./CustomButton";
 
 
 export {
-
-  CustomButton,
+    FormField,
+    CustomButton,
 
 };
 
 // import VideoCard from "./VideoCard";
-// import FormField from "./FormField";
+// 
 // import CustomButton from "./CustomButton";
 // import InfoBox from "./InfoBox";
 // import Loader from "./Loader";
@@ -19,7 +19,7 @@ export {
 
 // export {
 //   VideoCard,
-//   FormField,
+//   
 //   CustomButton,
 //   InfoBox,
 //   Loader,
